@@ -1,0 +1,4 @@
+Contact: mailto:info@bb-technologies.info
+Expires: 2027-11-01T00:00:00.000Z
+Preferred-Languages: en, ru, ky
+Canonical: https://bb-technologies.info/.well-known/security.txt
